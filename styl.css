@@ -1,0 +1,31 @@
+body{background-color: rgb(255, 255, 255);
+     font-family: Arial, Helvetica, sans-serif;
+	color: rgb(0, 0, 0);}
+h1{text-align: center;}
+header{color: rgb(0, 0, 0);}
+
+nav{width: 150px;
+     height: 10px;
+    line-height:2 ;}
+
+p{width: 600px;
+height: 100px;
+margin-left:  250px; }   
+
+img{width: 300px;
+float: right;
+margin-right: 100px;}
+
+section{width: 90%;
+        height: 300px; 
+        margin:0 auto ;float: right;
+     }
+ article{width: 30%;
+          height: 200px;
+     float: right;
+     border: thin solid rgb(0, 0, 0);
+     border-radius:10px ;
+     padding: 30px 5px 0 5px; 
+     margin: 0 12px 30px 12px;}
+nav li{list-style-type: none;}
+table{text-align: center;width:150px;height: 250px;}
