@@ -2,24 +2,24 @@ body{background-color: rgb(255, 255, 255);
      font-family: Arial, Helvetica, sans-serif;
 	color: rgb(0, 0, 0);}
 h1{text-align: center;}
-header{color: rgb(0, 0, 0);}
+header{color: rgb(51, 255, 0);}
 
-nav{width: 200px;
-     height: 150px;
-    line-height:2 ;}
+nav{width: 150px;
+     height: 100px;
+    line-height:2 ;background-color: rgb(255, 30, 0);}
 
 p{width: 600px;
 height: 100px;
 margin-left:  250px; }   
 
-img{width: 300px;
+img{width: 101px;
 float: right;
-margin-right: 100px;}
+margin-right: 100px;
+size: 250px;}
 
 section{width: 90%;
-        height: 300px; 
+        height: 3000px; 
         margin:0 auto ;
-        size: 300px;
      }
  article{width: 30%;
           height: 200px;
@@ -29,4 +29,4 @@ section{width: 90%;
      padding: 30px 5px 0 5px; 
      margin: 0 12px 30px 12px;}
 nav li{list-style-type: none;}
-table{text-align: center;width:150px;height: 250px;}
+table{text-align: center;width:200px;height: 20px;}
